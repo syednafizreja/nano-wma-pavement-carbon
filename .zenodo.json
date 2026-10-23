@@ -1,0 +1,24 @@
+{
+  "title": "PaveCarbon: coupled finite-element and life-cycle framework for nano-silica warm mix asphalt pavements",
+  "description": "Open Python code accompanying the manuscript 'From laboratory durability to annualised carbon: an open finite-element and life-cycle framework for nano-silica-modified warm mix asphalt pavements' (Discover Civil Engineering, under review). Axisymmetric Q9 finite-element solver verified against Boussinesq, Witczak moduli for monthly temperature states, MEPDG fatigue and rutting with Miner's rule, annualised A1-A3 carbon, one-at-a-time and Monte Carlo sensitivity.",
+  "creators": [
+    {
+      "name": "Hasib, Syed Nafiz Reja",
+      "affiliation": "Independent Researcher, Chengdu, China",
+      "orcid": "0009-0002-7162-7890"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "keywords": [
+    "warm mix asphalt",
+    "nano-silica",
+    "finite element analysis",
+    "fatigue life",
+    "life-cycle assessment",
+    "embodied carbon",
+    "Monte Carlo",
+    "pavement engineering"
+  ]
+}

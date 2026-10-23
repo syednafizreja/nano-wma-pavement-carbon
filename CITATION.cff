@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "PaveCarbon: coupled finite-element and life-cycle framework for nano-silica warm mix asphalt pavements"
+version: "1.0.0"
+date-released: "2026-10-23"
+license: MIT
+repository-code: "https://github.com/syednafizreja/nano-wma-pavement-carbon"
+authors:
+  - family-names: "Hasib"
+    given-names: "Syed Nafiz Reja"
+    orcid: "https://orcid.org/0009-0002-7162-7890"
+    email: "syednafiz2811@gmail.com"
+keywords:
+  - warm mix asphalt
+  - finite element analysis
+  - fatigue life
+  - life-cycle assessment
+  - nano-silica
+  - embodied carbon
+  - Monte Carlo
+preferred-citation:
+  type: article
+  title: "From laboratory durability to annualised carbon: an open finite-element and life-cycle framework for nano-silica-modified warm mix asphalt pavements"
+  authors:
+    - family-names: "Hasib"
+      given-names: "Syed Nafiz Reja"
+      orcid: "https://orcid.org/0009-0002-7162-7890"
+  journal: "Discover Civil Engineering"
+  year: 2026
+  notes: "Under review"

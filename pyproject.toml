@@ -1,0 +1,14 @@
+[project]
+name = "pavecarbon"
+version = "1.0.0"
+description = "Axisymmetric FE, M-E damage and annualised A1-A3 carbon for nano-silica warm mix asphalt pavements"
+authors = [{ name = "Syed Nafiz Reja Hasib", email = "syednafiz2811@gmail.com" }]
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.24", "scipy>=1.10", "pandas>=2.0", "matplotlib>=3.7"]
+
+[tool.setuptools]
+packages = ["pavecarbon"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
